@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Abhishek Kumar
 
 Welcome to my GitHub profile! I'm a passionate developer who loves coding and solving problems. Here you'll find a collection of my projects, contributions, and achievements.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=killer-abhi&label=Profile%20views&color=0e75b6&style=flat" alt="killer-abhi" /> </p>
 ---
 
 ## 🚀 Skills & Technologies
