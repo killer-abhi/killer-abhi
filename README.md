@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and so
 ---
 [![An image of @killerabhi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/killerabhi)](https://holopin.io/@killerabhi)
 ---
-[![LeetCode user killer-abhi](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkiller-abhi&logo=leetcode&logoColor=yellow)](https://leetcode.com/killer-abhi/)
+<!-- [![LeetCode user killer-abhi](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkiller-abhi&logo=leetcode&logoColor=yellow)](https://leetcode.com/killer-abhi/) -->
 ---
 <table>
   <tr>
